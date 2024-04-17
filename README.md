@@ -1,6 +1,6 @@
 ## VCconnect
 
-#Introduction
+Introduction
 
 In an era dominated by the digital landscape, the rise of cybercrimes has become an alarming concern for individuals and organizations alike. Addressing this critical issue necessitates an efficient and accessible reporting system that empowers users to communicate incidents while enabling investigators to swiftly respond. The Cybercrime Reporting Website emerges as a robust solution to this pressing challenge.
 
@@ -50,7 +50,7 @@ Hardware Requirements:
 
 
 
-#CONCLUSION
+CONCLUSION
 
 
 In conclusion, the development of the Cybercrime Reporting Website represents a significant stride towards combating digital threats and ensuring a safer online environment. This platform, driven by a user-centric design and robust back-end functionality, provides an accessible and secure channel for reporting cybercrimes. The utilization of HTML, CSS, PHP, and MySQL has allowed for the seamless integration of front-end and back-end elements, creating a cohesive user experience. The implementation of user authentication, secure data handling, and investigator portals has empowered both users and investigators in their respective roles. The iterative testing process and adherence to best practices have culminated in a reliable system that meets the project's objectives.
