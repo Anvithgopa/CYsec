@@ -43,10 +43,16 @@ Hardware Requirements:
 
 •	Windows Operating System
 
+SnapShots
 
-
-
-
+![Picture1](https://github.com/Anvithgopa/VCconnect/assets/57863118/3fdf218f-a238-4b82-b860-e1879c82eea5)
+![Picture2](https://github.com/Anvithgopa/VCconnect/assets/57863118/e3e0ab1e-0f78-4054-a481-62d2ae234b7d)
+![Picture3](https://github.com/Anvithgopa/VCconnect/assets/57863118/3f66405b-5abd-4baa-b738-e45d7999f661)
+![Picture4](https://github.com/Anvithgopa/VCconnect/assets/57863118/cbeb1ceb-6294-4ddc-8858-c2414b9fc831)
+![Picture5](https://github.com/Anvithgopa/VCconnect/assets/57863118/8d3cfbf2-440b-4fd1-85e7-4bb55be5fcc6)
+![Picture6](https://github.com/Anvithgopa/VCconnect/assets/57863118/ff9271a8-00f3-4a2b-be93-912841796067)
+![Picture7](https://github.com/Anvithgopa/VCconnect/assets/57863118/395998c3-ac09-43ca-80a9-f98400fd8193)
+![Picture8](https://github.com/Anvithgopa/VCconnect/assets/57863118/7379cd7a-6165-4a19-a979-613f7014ee67)
 
 
 
